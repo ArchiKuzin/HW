@@ -2,3 +2,5 @@
 2) iphone 12
 3) Android 10
 4) Android 11
+5) Xiaomi s20
+6) Xiaomi s40
